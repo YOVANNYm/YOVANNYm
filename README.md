@@ -1,4 +1,5 @@
 ### Hola, buenas tardes a todos 👋
+Soy estudiante de la carrera de Ing. en sistemas dela Universidad Tecnologica de El Salvador desde 2020. Vivo en San Salvador y trabajo en el Aeropuerto de EL Salvador
 
 <!--
 **YOVANNYm/YOVANNYm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
